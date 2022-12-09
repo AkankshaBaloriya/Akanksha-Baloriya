@@ -1,4 +1,5 @@
 # Akanksha-Baloriya
+! [logo](https://github.com/AkankshaBaloriya/Akanksha-Baloriya/blob/main/readme.image)
 <h1 align="center">Hi 👋, I'm Akanksha Baloriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
